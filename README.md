@@ -11,3 +11,5 @@ NLP and machine learning algorithms are used for text analysis and predictions.
 4. Fetched the top 20 Positive and negative Words.
 5. Automated step 2,3,4.
 6. Model Evaluation.
+
+Please check the Jupyter Notebook for better understanding.
